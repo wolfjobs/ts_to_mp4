@@ -7,7 +7,7 @@ import _thread
 
 # 获取ts文件参数
 
-hostname = 'https://zk.603ee.com/'
+hostname = 'ur host'
 # date = time.strftime("%Y/%m/%d")
 date = '2019/07/15'
 secret = '/05HnRV0XKDcP4wye/'
